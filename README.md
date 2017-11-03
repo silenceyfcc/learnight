@@ -29,7 +29,7 @@
 
 #### 2、添加远程库
 #### git remote add origin git@github.com:silenceyfcc/xx.git 
-#### git push -u origin master
+#### git push -u origin master  //推送至github远程库
 
 #### 3、克隆到本地
 #### git clone git@github.com:silenceyfcc/xx.git 
