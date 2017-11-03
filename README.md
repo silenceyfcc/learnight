@@ -21,6 +21,7 @@
 #### git commit -m "描述"
 #### git reflog 返回修改日志
 #### git reset --hard HEAD(可以直接写HEAD的号码)
+#### git diff -- filesname
  
 
 ## 远程仓库
