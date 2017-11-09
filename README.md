@@ -24,13 +24,13 @@
 #### git diff -- filesname(比如：1.txt,README.md······)
  
 
-## 远程仓库
+## 五、远程仓库
 #### 1、创建SSH key
 #### ssh-keygen -t rsa -C "silenceyfcc@126.com" 
 
 #### 2、添加远程库
 #### git remote add origin git@github.com:silenceyfcc/xx.git 
 #### git push -u origin master  //推送至github远程库
-
+#### git pull origin master     //更新至本地git库
 #### 3、克隆到本地
 #### git clone git@github.com:silenceyfcc/xx.git 
