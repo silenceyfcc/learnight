@@ -5,8 +5,8 @@
 
 
 ## 二、全局配置git 
-#### git config --global user.name("silenceyfcc")  
-#### git config --global user.email("sielnceyfcc@126.com")
+#### git config --global user.name "silenceyfcc" 
+#### git config --global user.email "sielnceyfcc@126.com"
 ### 查看配置
 #### git config user.name
 #### git config user.email 或 git config --list
