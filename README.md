@@ -27,6 +27,7 @@
 ## 五、远程仓库
 #### 1、创建SSH key
 #### ssh-keygen -t rsa -C "silenceyfcc@126.com" 
+#### 读取文本的指令：cat
 
 #### 2、添加远程库
 #### git remote add origin git@github.com:silenceyfcc/xx.git 
